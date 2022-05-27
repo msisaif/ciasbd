@@ -39,7 +39,8 @@
 <body>
     <div id="app">
     </div>
-
+ 
+ ​    <​link​ ​href​=​"​{{​ ​mix​(​'​css/app.css​'​) ​}​}​"​ ​type​=​"​text/css​"​ ​rel​=​"​stylesheet​"​/>
 
     <!-- JS
     ============================================ -->
@@ -64,6 +65,5 @@
 
     <!-- Main JS -->
     <script src="/assets/js/main.js"></script>
-    <script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
 </body>
 </html>
