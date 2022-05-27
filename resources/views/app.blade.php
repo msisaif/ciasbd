@@ -39,11 +39,10 @@
 <body>
     <div id="app">
     </div>
- 
- ​    <​link​ ​href​=​"​{{​ ​mix​(​'​css/app.css​'​) ​}​}​"​ ​type​=​"​text/css​"​ ​rel​=​"​stylesheet​"​/>
 
     <!-- JS
     ============================================ -->
+    <script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
 
     <!-- Modernizer & jQuery JS -->
     <script src="/assets/js/vendor/modernizr-3.11.2.min.js"></script>
