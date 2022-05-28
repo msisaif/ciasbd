@@ -83,7 +83,7 @@
                         <!-- Header Logo Start -->
                         <div class="header-logo">
                             <router-link to="/">
-                                <img src="assets/images/logo.png" alt="Logo" />
+                                <img loading="lazy"  src="assets/images/logo.png" alt="Logo" />
                             </router-link>
                         </div>
                         <!-- Header Logo End -->
@@ -323,7 +323,7 @@
         <div class="section footer-section">
             <!-- Footer Widget Section Start -->
             <div class="footer-widget-section">
-                <img
+                <img loading="lazy" 
                     class="shape-1 animation-down"
                     src="assets/images/shape/shape-21.png"
                     alt="Shape"
@@ -336,7 +336,7 @@
                             <div class="footer-widget">
                                 <div class="widget-logo">
                                     <a href="#"
-                                        ><img
+                                        ><img loading="lazy" 
                                             src="assets/images/logo.png"
                                             alt="Logo"
                                     /></a>
@@ -470,7 +470,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="shape-2 animation-left"
                     src="assets/images/shape/shape-22.png"
                     alt="Shape"

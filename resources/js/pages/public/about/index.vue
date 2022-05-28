@@ -2,13 +2,13 @@
     <div>
         <!-- Page Banner Start -->
         <div class="section page-banner">
-            <img
+            <img loading="lazy" 
                 class="shape-1 animation-round"
                 src="assets/images/shape/shape-8.png"
                 alt="Shape"
             />
 
-            <img
+            <img loading="lazy" 
                 class="shape-2"
                 src="assets/images/shape/shape-23.png"
                 alt="Shape"
@@ -28,7 +28,7 @@
 
             <!-- Shape Icon Box Start -->
             <div class="shape-icon-box">
-                <img
+                <img loading="lazy" 
                     class="icon-shape-1 animation-left"
                     src="assets/images/shape/shape-5.png"
                     alt="Shape"
@@ -40,7 +40,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="icon-shape-2"
                     src="assets/images/shape/shape-6.png"
                     alt="Shape"
@@ -48,13 +48,13 @@
             </div>
             <!-- Shape Icon Box End -->
 
-            <img
+            <img loading="lazy" 
                 class="shape-3"
                 src="assets/images/shape/shape-24.png"
                 alt="Shape"
             />
 
-            <img
+            <img loading="lazy" 
                 class="shape-author"
                 src="assets/images/author/author-11.jpg"
                 alt="Shape"
@@ -71,7 +71,7 @@
                             <!-- About Images Start -->
                             <div class="about-images">
                                 <div class="images">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/about.jpg"
                                         alt="About"
                                     />
@@ -79,7 +79,7 @@
 
                                 <div class="about-years">
                                     <div class="years-icon">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/logo-icon.png"
                                             alt="About"
                                         />
@@ -215,17 +215,17 @@
             <div class="container">
                 <!-- Call to Action Wrapper Start -->
                 <div class="call-to-action-wrapper">
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-01 animation-round"
                         src="assets/images/shape/shape-12.png"
                         alt="Shape"
                     />
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-02"
                         src="assets/images/shape/shape-13.svg"
                         alt="Shape"
                     />
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-03 animation-round"
                         src="assets/images/shape/shape-12.png"
                         alt="Shape"
@@ -278,7 +278,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-01.jpg"
                                         alt="Author"
                                     />
@@ -301,7 +301,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-02.jpg"
                                         alt="Author"
                                     />
@@ -324,7 +324,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-03.jpg"
                                         alt="Author"
                                     />
@@ -347,7 +347,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-04.jpg"
                                         alt="Author"
                                     />
@@ -370,7 +370,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-05.jpg"
                                         alt="Author"
                                     />
@@ -393,7 +393,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-06.jpg"
                                         alt="Author"
                                     />
@@ -416,7 +416,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-07.jpg"
                                         alt="Author"
                                     />
@@ -439,7 +439,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-08.jpg"
                                         alt="Author"
                                     />
@@ -462,7 +462,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-09.jpg"
                                         alt="Author"
                                     />
@@ -485,7 +485,7 @@
                             <!-- Single Team Start -->
                             <div class="single-team">
                                 <div class="team-thumb">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/author/author-10.jpg"
                                         alt="Author"
                                     />
@@ -531,7 +531,7 @@
                     </div>
                     <!-- Section Title End -->
 
-                    <img
+                    <img loading="lazy" 
                         class="shape-1 animation-right"
                         src="assets/images/shape/shape-14.png"
                         alt="Shape"
@@ -542,14 +542,14 @@
                         <ul class="app-btn">
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/google-play.png"
                                         alt="Google Play"
                                 /></a>
                             </li>
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/app-store.png"
                                         alt="App Store"
                                 /></a>
@@ -583,7 +583,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-06.jpg"
                                             alt="Author"
                                         />
@@ -620,7 +620,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-07.jpg"
                                             alt="Author"
                                         />
@@ -657,7 +657,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-03.jpg"
                                             alt="Author"
                                         />
@@ -705,13 +705,13 @@
             <div class="container">
                 <!-- Brand Logo Wrapper Start -->
                 <div class="brand-logo-wrapper">
-                    <img
+                    <img loading="lazy" 
                         class="shape-1"
                         src="assets/images/shape/shape-19.png"
                         alt="Shape"
                     />
 
-                    <img
+                    <img loading="lazy" 
                         class="shape-2 animation-round"
                         src="assets/images/shape/shape-20.png"
                         alt="Shape"
@@ -731,7 +731,7 @@
                             <div class="swiper-wrapper">
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-01.png"
                                         alt="Brand"
                                     />
@@ -740,7 +740,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-02.png"
                                         alt="Brand"
                                     />
@@ -749,7 +749,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-03.png"
                                         alt="Brand"
                                     />
@@ -758,7 +758,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-04.png"
                                         alt="Brand"
                                     />
@@ -767,7 +767,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-05.png"
                                         alt="Brand"
                                     />
@@ -776,7 +776,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-06.png"
                                         alt="Brand"
                                     />
