@@ -4,7 +4,7 @@
         <div class="section slider-section">
             <!-- Slider Shape Start -->
             <div class="slider-shape">
-                <img
+                <img loading="lazy" 
                     class="shape-1 animation-round"
                     src="assets/images/shape/shape-8.png"
                     alt="Shape"
@@ -34,7 +34,7 @@
 
             <!-- Slider Courses Box Start -->
             <div class="slider-courses-box">
-                <img
+                <img loading="lazy" 
                     class="shape-1 animation-left"
                     src="assets/images/shape/shape-5.png"
                     alt="Shape"
@@ -48,7 +48,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="shape-2"
                     src="assets/images/shape/shape-6.png"
                     alt="Shape"
@@ -67,7 +67,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="shape animation-up"
                     src="assets/images/shape/shape-7.png"
                     alt="Shape"
@@ -78,21 +78,21 @@
             <!-- Slider Images Start -->
             <div class="slider-images">
                 <div class="images">
-                    <img src="assets/images/slider/slider-2.png" alt="Slider" />
+                    <img loading="lazy"  src="assets/images/slider/slider-2.png" alt="Slider" />
                 </div>
             </div>
             <!-- Slider Images End -->
 
             <!-- Slider Video Start -->
             <div class="slider-video">
-                <img
+                <img loading="lazy" 
                     class="shape-1"
                     src="assets/images/shape/shape-9.png"
                     alt="Shape"
                 />
 
                 <div class="video-play">
-                    <img src="assets/images/shape/shape-10.png" alt="Shape" />
+                    <img loading="lazy"  src="assets/images/shape/shape-10.png" alt="Shape" />
                     <a
                         href="https://www.youtube.com/watch?v=rOnISEnoxg4&t=105s"
                         class="play video-popup"
@@ -218,7 +218,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -228,7 +228,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -295,7 +295,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -305,7 +305,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -369,7 +369,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -379,7 +379,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -446,7 +446,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -456,7 +456,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -520,7 +520,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -530,7 +530,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -594,7 +594,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -604,7 +604,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -677,7 +677,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -687,7 +687,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -754,7 +754,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -764,7 +764,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -828,7 +828,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -838,7 +838,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -905,7 +905,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -915,7 +915,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -979,7 +979,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -989,7 +989,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1053,7 +1053,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1063,7 +1063,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1136,7 +1136,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1146,7 +1146,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1213,7 +1213,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1223,7 +1223,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1287,7 +1287,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1297,7 +1297,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1364,7 +1364,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1374,7 +1374,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1438,7 +1438,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1448,7 +1448,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1512,7 +1512,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1522,7 +1522,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1595,7 +1595,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1605,7 +1605,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1672,7 +1672,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1682,7 +1682,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1746,7 +1746,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1756,7 +1756,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1823,7 +1823,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1833,7 +1833,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1897,7 +1897,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1907,7 +1907,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -1971,7 +1971,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -1981,7 +1981,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2054,7 +2054,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2064,7 +2064,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2131,7 +2131,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2141,7 +2141,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2205,7 +2205,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2215,7 +2215,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2282,7 +2282,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2292,7 +2292,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2356,7 +2356,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2366,7 +2366,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2430,7 +2430,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2440,7 +2440,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2513,7 +2513,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2523,7 +2523,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2590,7 +2590,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2600,7 +2600,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2664,7 +2664,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2674,7 +2674,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2741,7 +2741,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2751,7 +2751,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2815,7 +2815,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2825,7 +2825,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2889,7 +2889,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2899,7 +2899,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -2972,7 +2972,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-04.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -2982,7 +2982,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-01.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3049,7 +3049,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-02.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -3059,7 +3059,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-02.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3123,7 +3123,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-06.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -3133,7 +3133,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-03.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3200,7 +3200,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-05.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -3210,7 +3210,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-04.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3274,7 +3274,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-01.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -3284,7 +3284,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-05.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3348,7 +3348,7 @@
                                     <div class="single-courses">
                                         <div class="courses-images">
                                             <a href="#"
-                                                ><img
+                                                ><img loading="lazy" 
                                                     src="assets/images/courses/courses-03.jpg"
                                                     alt="Courses"
                                             /></a>
@@ -3358,7 +3358,7 @@
                                                 <div class="author">
                                                     <div class="author-thumb">
                                                         <a href="#"
-                                                            ><img
+                                                            ><img loading="lazy" 
                                                                 src="assets/images/author/author-06.jpg"
                                                                 alt="Author"
                                                         /></a>
@@ -3441,17 +3441,17 @@
             <div class="container">
                 <!-- Call to Action Wrapper Start -->
                 <div class="call-to-action-wrapper">
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-01 animation-round"
                         src="assets/images/shape/shape-12.png"
                         alt="Shape"
                     />
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-02"
                         src="assets/images/shape/shape-13.svg"
                         alt="Shape"
                     />
-                    <img
+                    <img loading="lazy" 
                         class="cat-shape-03 animation-round"
                         src="assets/images/shape/shape-12.png"
                         alt="Shape"
@@ -3499,7 +3499,7 @@
                 <div class="how-it-work-wrapper">
                     <!-- Single Work Start -->
                     <div class="single-work">
-                        <img
+                        <img loading="lazy" 
                             class="shape-1"
                             src="assets/images/shape/shape-15.png"
                             alt="Shape"
@@ -3520,7 +3520,7 @@
 
                     <!-- Single Work Start -->
                     <div class="work-arrow">
-                        <img
+                        <img loading="lazy" 
                             class="arrow"
                             src="assets/images/shape/shape-17.png"
                             alt="Shape"
@@ -3530,7 +3530,7 @@
 
                     <!-- Single Work Start -->
                     <div class="single-work">
-                        <img
+                        <img loading="lazy" 
                             class="shape-2"
                             src="assets/images/shape/shape-15.png"
                             alt="Shape"
@@ -3551,7 +3551,7 @@
 
                     <!-- Single Work Start -->
                     <div class="work-arrow">
-                        <img
+                        <img loading="lazy" 
                             class="arrow"
                             src="assets/images/shape/shape-17.png"
                             alt="Shape"
@@ -3561,7 +3561,7 @@
 
                     <!-- Single Work Start -->
                     <div class="single-work">
-                        <img
+                        <img loading="lazy" 
                             class="shape-3"
                             src="assets/images/shape/shape-16.png"
                             alt="Shape"
@@ -3604,7 +3604,7 @@
                     </div>
                     <!-- Section Title End -->
 
-                    <img
+                    <img loading="lazy" 
                         class="shape-1 animation-right"
                         src="assets/images/shape/shape-14.png"
                         alt="Shape"
@@ -3615,14 +3615,14 @@
                         <ul class="app-btn">
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/google-play.png"
                                         alt="Google Play"
                                 /></a>
                             </li>
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/app-store.png"
                                         alt="App Store"
                                 /></a>
@@ -3656,7 +3656,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-06.jpg"
                                             alt="Author"
                                         />
@@ -3693,7 +3693,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-01.jpg"
                                             alt="Author"
                                         />
@@ -3730,7 +3730,7 @@
                             <div class="single-testimonial swiper-slide">
                                 <div class="testimonial-author">
                                     <div class="author-thumb">
-                                        <img
+                                        <img loading="lazy" 
                                             src="assets/images/author/author-03.jpg"
                                             alt="Author"
                                         />
@@ -3778,13 +3778,13 @@
             <div class="container">
                 <!-- Brand Logo Wrapper Start -->
                 <div class="brand-logo-wrapper">
-                    <img
+                    <img loading="lazy" 
                         class="shape-1"
                         src="assets/images/shape/shape-19.png"
                         alt="Shape"
                     />
 
-                    <img
+                    <img loading="lazy" 
                         class="shape-2 animation-round"
                         src="assets/images/shape/shape-20.png"
                         alt="Shape"
@@ -3804,7 +3804,7 @@
                             <div class="swiper-wrapper">
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-01.png"
                                         alt="Brand"
                                     />
@@ -3813,7 +3813,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-02.png"
                                         alt="Brand"
                                     />
@@ -3822,7 +3822,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-03.png"
                                         alt="Brand"
                                     />
@@ -3831,7 +3831,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-04.png"
                                         alt="Brand"
                                     />
@@ -3840,7 +3840,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-05.png"
                                         alt="Brand"
                                     />
@@ -3849,7 +3849,7 @@
 
                                 <!-- Single Brand Start -->
                                 <div class="single-brand swiper-slide">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/brand/brand-06.png"
                                         alt="Brand"
                                     />
@@ -3885,7 +3885,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
                                     <a href="#"
-                                        ><img
+                                        ><img loading="lazy" 
                                             src="assets/images/blog/blog-01.jpg"
                                             alt="Blog"
                                     /></a>
@@ -3895,7 +3895,7 @@
                                         <div class="author">
                                             <div class="author-thumb">
                                                 <a href="#"
-                                                    ><img
+                                                    ><img loading="lazy" 
                                                         src="assets/images/author/author-01.jpg"
                                                         alt="Author"
                                                 /></a>
@@ -3942,7 +3942,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
                                     <a href="#"
-                                        ><img
+                                        ><img loading="lazy" 
                                             src="assets/images/blog/blog-02.jpg"
                                             alt="Blog"
                                     /></a>
@@ -3952,7 +3952,7 @@
                                         <div class="author">
                                             <div class="author-thumb">
                                                 <a href="#"
-                                                    ><img
+                                                    ><img loading="lazy" 
                                                         src="assets/images/author/author-02.jpg"
                                                         alt="Author"
                                                 /></a>
@@ -3999,7 +3999,7 @@
                             <div class="single-blog">
                                 <div class="blog-image">
                                     <a href="#"
-                                        ><img
+                                        ><img loading="lazy" 
                                             src="assets/images/blog/blog-03.jpg"
                                             alt="Blog"
                                     /></a>
@@ -4009,7 +4009,7 @@
                                         <div class="author">
                                             <div class="author-thumb">
                                                 <a href="#"
-                                                    ><img
+                                                    ><img loading="lazy" 
                                                         src="assets/images/author/author-03.jpg"
                                                         alt="Author"
                                                 /></a>
