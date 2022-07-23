@@ -83,7 +83,7 @@
                         <!-- Header Logo Start -->
                         <div class="header-logo">
                             <router-link to="/">
-                                <img src="assets/images/logo.png" alt="Logo" />
+                                <img loading="lazy"  src="assets/images/logo.png" alt="Logo" />
                             </router-link>
                         </div>
                         <!-- Header Logo End -->
@@ -154,7 +154,11 @@
 
                         <!-- Header Mobile Toggle Start -->
                         <div class="header-toggle d-lg-none">
-                            <a class="menu-toggle" href="javascript:void(0)">
+                            <a
+                                class="menu-toggle"
+                                href="javascript:void(0)"
+                                @click="showNav = !showNav"
+                            >
                                 <span></span>
                                 <span></span>
                                 <span></span>
@@ -170,9 +174,13 @@
         <!-- Header Section End -->
 
         <!-- Mobile Menu Start -->
-        <div class="mobile-menu">
+        <div class="mobile-menu" :class="{ open: showNav }">
             <!-- Menu Close Start -->
-            <a class="menu-close" href="javascript:void(0)">
+            <a
+                class="menu-close"
+                href="javascript:void(0)"
+                @click="showNav = fase"
+            >
                 <i class="icofont-close-line"></i>
             </a>
             <!-- Menu Close End -->
@@ -181,11 +189,11 @@
             <div class="mobile-top">
                 <p>
                     <i class="flaticon-phone-call"></i>
-                    <a href="tel:9702621413">(970) 262-1413</a>
+                    <a href="tel:01762284311">01762-284311</a>
                 </p>
                 <p>
                     <i class="flaticon-email"></i>
-                    <a href="mailto:address@gmail.com">address@gmail.com</a>
+                    <a href="mailto:info@ciasbd.com">info@ciasbd.com</a>
                 </p>
             </div>
             <!-- Mobile Top Medal End -->
@@ -193,8 +201,24 @@
             <!-- Mobile Sing In & Up Start -->
             <div class="mobile-sign-in-up">
                 <ul>
-                    <li><a class="sign-in" href="#">Sign In</a></li>
-                    <li><a class="sign-up" href="#">Sign Up</a></li>
+                    <li>
+                        <router-link
+                            @click="showNav = !showNav"
+                            to="/login"
+                            class="sign-in"
+                        >
+                            Sign In
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link
+                            @click="showNav = !showNav"
+                            to="/register"
+                            class="sign-up"
+                        >
+                            Sign Up
+                        </router-link>
+                    </li>
                 </ul>
             </div>
             <!-- Mobile Sing In & Up End -->
@@ -203,88 +227,40 @@
             <div class="mobile-menu-items">
                 <ul class="nav-menu">
                     <li>
-                        <router-link to="/">Home</router-link>
-                    </li>
-                    <li>
-                        <a href="#">All Course</a>
-                        <ul class="sub-menu">
-                            <li><a href="#">Courses</a></li>
-                            <li>
-                                <a href="#">Courses Details</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Pages </a>
-                        <ul class="sub-menu">
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Register</a></li>
-                            <li><a href="#">Login</a></li>
-                            <li><a href="#">FAQ</a></li>
-                            <li><a href="#">404 Error</a></li>
-                            <li>
-                                <a href="#">After Enroll</a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    >Instructor Dashboard (Course List)</a
-                                >
-                            </li>
-                            <li>
-                                <a href="#"
-                                    >Instructor Dashboard (Performance)</a
-                                >
-                            </li>
-                            <li><a href="#">Students</a></li>
-                            <li><a href="#">Reviews</a></li>
-                            <li>
-                                <a href="#">Course engagement</a>
-                            </li>
-                            <li>
-                                <a href="#">Traffic & conversion</a>
-                            </li>
-                            <li><a href="#">Messages</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Blog</a>
-                        <ul class="sub-menu">
-                            <li>
-                                <a href="#">Blog</a>
-                                <ul class="sub-menu">
-                                    <li><a href="#">Blog</a></li>
-                                    <li>
-                                        <a href="#">Blog Left Sidebar</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Blog Right Sidebar</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#">Blog Details</a>
-                                <ul class="sub-menu">
-                                    <li>
-                                        <a href="#"
-                                            >Blog Details Left Sidebar</a
-                                        >
-                                    </li>
-                                    <li>
-                                        <a href="#"
-                                            >Blog Details Right Sidebar</a
-                                        >
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <router-link exact-active-class="active" to="/about"
-                            >About</router-link
+                        <router-link
+                            @click="showNav = !showNav"
+                            exact-active-class="active"
+                            to="/"
                         >
+                            Home
+                        </router-link>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <router-link
+                            @click="showNav = !showNav"
+                            exact-active-class="active"
+                            to="/course"
+                        >
+                            Course
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link
+                            @click="showNav = !showNav"
+                            exact-active-class="active"
+                            to="/about"
+                        >
+                            About
+                        </router-link>
+                    </li>
+                    <li>
+                        <router-link
+                            @click="showNav = !showNav"
+                            exact-active-class="active"
+                            to="/contact"
+                        >
+                            Contact
+                        </router-link>
                     </li>
                 </ul>
             </div>
@@ -294,16 +270,36 @@
             <div class="mobile-social">
                 <ul class="social">
                     <li>
-                        <a href="#"><i class="flaticon-facebook"></i></a>
+                        <a
+                            target="_blank"
+                            href="https://www.facebook.com/ciasbd"
+                        >
+                            <i class="flaticon-facebook"></i>
+                        </a>
                     </li>
                     <li>
-                        <a href="#"><i class="flaticon-twitter"></i></a>
+                        <a
+                            target="_blank"
+                            href="https://www.facebook.com/ciasbd"
+                        >
+                            <i class="flaticon-twitter"></i>
+                        </a>
                     </li>
                     <li>
-                        <a href="#"><i class="flaticon-skype"></i></a>
+                        <a
+                            target="_blank"
+                            href="https://www.facebook.com/ciasbd"
+                        >
+                            <i class="flaticon-skype"></i>
+                        </a>
                     </li>
                     <li>
-                        <a href="#"><i class="flaticon-instagram"></i></a>
+                        <a
+                            target="_blank"
+                            href="https://www.facebook.com/ciasbd"
+                        >
+                            <i class="flaticon-instagram"></i>
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -312,7 +308,11 @@
         <!-- Mobile Menu End -->
 
         <!-- Overlay Start -->
-        <div class="overlay"></div>
+        <div
+            class="overlay"
+            :class="{ open: showNav }"
+            @click="showNav = false"
+        ></div>
         <!-- Overlay End -->
 
         <main>
@@ -323,7 +323,7 @@
         <div class="section footer-section">
             <!-- Footer Widget Section Start -->
             <div class="footer-widget-section">
-                <img
+                <img loading="lazy" 
                     class="shape-1 animation-down"
                     src="assets/images/shape/shape-21.png"
                     alt="Shape"
@@ -336,7 +336,7 @@
                             <div class="footer-widget">
                                 <div class="widget-logo">
                                     <a href="#"
-                                        ><img
+                                        ><img loading="lazy" 
                                             src="assets/images/logo.png"
                                             alt="Logo"
                                     /></a>
@@ -353,17 +353,17 @@
                                     <li>
                                         <p>
                                             <i class="flaticon-email"></i>
-                                            <a href="mailto:info@ciasbd.com"
-                                                >info@ciasbd.com</a
-                                            >
+                                            <a href="mailto:info@ciasbd.com">
+                                                info@ciasbd.com
+                                            </a>
                                         </p>
                                     </li>
                                     <li>
                                         <p>
                                             <i class="flaticon-phone-call"></i>
-                                            <a href="tel:+8801762-284311"
-                                                >+880 1762-284311</a
-                                            >
+                                            <a href="tel:01762284311">
+                                                01762-284311
+                                            </a>
                                         </p>
                                     </li>
                                 </ul>
@@ -470,7 +470,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="shape-2 animation-left"
                     src="assets/images/shape/shape-22.png"
                     alt="Shape"
@@ -515,5 +515,10 @@
 <script>
 export default {
     components: {},
+    data() {
+        return {
+            showNav: false,
+        };
+    },
 };
 </script>

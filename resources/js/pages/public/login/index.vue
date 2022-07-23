@@ -2,13 +2,13 @@
     <div>
         <!-- Page Banner Start -->
         <div class="section page-banner">
-            <img
+            <img loading="lazy" 
                 class="shape-1 animation-round"
                 src="assets/images/shape/shape-8.png"
                 alt="Shape"
             />
 
-            <img
+            <img loading="lazy" 
                 class="shape-2"
                 src="assets/images/shape/shape-23.png"
                 alt="Shape"
@@ -28,7 +28,7 @@
 
             <!-- Shape Icon Box Start -->
             <div class="shape-icon-box">
-                <img
+                <img loading="lazy" 
                     class="icon-shape-1 animation-left"
                     src="assets/images/shape/shape-5.png"
                     alt="Shape"
@@ -40,7 +40,7 @@
                     </div>
                 </div>
 
-                <img
+                <img loading="lazy" 
                     class="icon-shape-2"
                     src="assets/images/shape/shape-6.png"
                     alt="Shape"
@@ -48,13 +48,13 @@
             </div>
             <!-- Shape Icon Box End -->
 
-            <img
+            <img loading="lazy" 
                 class="shape-3"
                 src="assets/images/shape/shape-24.png"
                 alt="Shape"
             />
 
-            <img
+            <img loading="lazy" 
                 class="shape-author"
                 src="assets/images/author/author-11.jpg"
                 alt="Shape"
@@ -72,14 +72,14 @@
                             <!-- Register & Login Images Start -->
                             <div class="register-login-images">
                                 <div class="shape-1">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/shape/shape-26.png"
                                         alt="Shape"
                                     />
                                 </div>
 
                                 <div class="images">
-                                    <img
+                                    <img loading="lazy" 
                                         src="assets/images/register-login.png"
                                         alt="Register Login"
                                     />
@@ -156,7 +156,7 @@
                     </div>
                     <!-- Section Title End -->
 
-                    <img
+                    <img loading="lazy" 
                         class="shape-1 animation-right"
                         src="assets/images/shape/shape-14.png"
                         alt="Shape"
@@ -167,14 +167,14 @@
                         <ul class="app-btn">
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/google-play.png"
                                         alt="Google Play"
                                 /></a>
                             </li>
                             <li>
                                 <a href="#"
-                                    ><img
+                                    ><img loading="lazy" 
                                         src="assets/images/app-store.png"
                                         alt="App Store"
                                 /></a>
